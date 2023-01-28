@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Teht4
+namespace Teht19
 {
         class Ihminen
         {
