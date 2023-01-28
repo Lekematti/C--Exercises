@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Teht2
+namespace Teht17
 {
-    internal class Teht2
+    internal class Teht17
     {
         class Ihminen
         {
