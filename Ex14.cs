@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Teht6
+namespace Teht14
 {
-    internal class Teht6
+    internal class Teht14
     {
         static void Main(string[] args)
         {
