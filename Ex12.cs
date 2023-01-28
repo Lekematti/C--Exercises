@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Teht4
+namespace Teht12
 {
-    internal class Teht4
+    internal class Teht12
     {
         static void Main(string[] args)
         {
